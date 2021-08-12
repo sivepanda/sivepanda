@@ -1,5 +1,6 @@
 -SFHS TSA & SFHS Robotics <br>
--Java and JS primarily, learning C++, C, and Python. <br>
+-Java and JS primarily, learning C++, C, and Python.<br>
+-User of VSCode, Eclipse, and NetBeans.
 -Web dev <br>
 -Design stuff <br>
 -Video editor <br>
