@@ -6,5 +6,5 @@
 <li>User of VSCode, Eclipse, and NetBeans.
 <li>Web dev 
 <li>Design stuff 
-<li>Video editor 
+<li>Video editor (DaVinci Resolve)
 </ul>
