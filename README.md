@@ -1,5 +1,5 @@
 # **Siven Panda**
-* Duke CS 2028
+* Duke ECE + CS + Bioinformatics 2028
 * Bioinformatics
 * Java, Python, JS/TS, C/C++, Rust
 * User of NeoVim and VSCode
