@@ -1,5 +1,4 @@
 # **Siven Panda**
-* Duke ECE + CS 2028
 * Java, Python, JS/TS, C/C++, Go
 * Customizationmaxxing
 
